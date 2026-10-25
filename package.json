@@ -1,0 +1,18 @@
+{
+  "name": "muslima-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "node server.js --production"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
